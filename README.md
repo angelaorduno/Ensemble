@@ -1,4 +1,4 @@
-# 🌳 Tree-Based Ensemble Models for Obesity Risk (Kaggle) — DDS8555 Lesson 6
+# 🌳 Tree-Based Ensemble Models for Obesity Risk
 
 This project builds and evaluates **tree-based classification models** for the Kaggle competition **“Multi-Class Prediction of Obesity Risk.”** The notebook includes **EDA**, **model training**, **interpretation**, and **Kaggle submission file generation** for:
 
